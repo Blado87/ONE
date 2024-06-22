@@ -1,10 +1,10 @@
 /* 
-    Desafíos
+    Desafíos - Oracle Next Education
 */
 
 // CURSO: Lógica de programación: sumérgete en la programación con JavaScript
 
-// Clase 01 - Iniciando con javascript
+// desafio 01 - Iniciando con javascript
 
     // Muestra una alerta con el mensaje "¡Bienvenida y bienvenido a nuestro sitio web!".
     alert("¡Bienvenida y bienvenido a nuestro sitio web!");

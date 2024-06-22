@@ -1,16 +1,11 @@
 /* 
-    Desafíos
+    Desafíos - Oracle Next Education
 */
 
 // CURSO: Lógica de programación: sumérgete en la programación con JavaScript
 
-// Clase 02 - loops y tentativas.
+// desafio 02 - loops y tentativas.
 
-/*
-
-Hemos llegado a otra lista de actividades (no obligatorias) para que practiques y refuerces aún más tu aprendizaje. ¿Vamos a hacerlo? Desafíos:
-
-*/
 
     // Crea un contador que comience en 1 y vaya hasta 10 usando un bucle 'while'. Muestra cada número.
     let contador = 1;
