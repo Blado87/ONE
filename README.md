@@ -9,4 +9,3 @@ A continuación se listan los desafíos incluidos en este repositorio:
 1. **Desafío 1** - Iniciando con javascript.
 2. **Desafío 2** - loops y tentativas.
 3. **Desafío 3** - Buenas prácticas en la programación.
-
